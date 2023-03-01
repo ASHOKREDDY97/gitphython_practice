@@ -1,0 +1,103 @@
+django.utils.autoreload - INFO - C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:07:55,919 autoreload 8780 14896 Watching for file changes with StatReloader
+INFO 2023-02-22 10:08:05,845 autoreload 8780 14896 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:08:06,691 autoreload 22968 28832 Watching for file changes with StatReloader
+2023-02-22 10:08:06,725:INFO:ok
+INFO 2023-02-22 10:08:11,422 autoreload 22968 28832 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:08:11,422:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:08:12,127 autoreload 8940 11972 Watching for file changes with StatReloader
+INFO 2023-02-22 10:08:23,830 autoreload 8940 11972 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:08:24,623 autoreload 19596 29408 Watching for file changes with StatReloader
+2023-02-22 10:08:24,648:INFO:ok
+INFO 2023-02-22 10:08:59,232 basehttp 19596 15108 "POST / HTTP/1.1" 200 2044
+2023-02-22 10:08:59,232:INFO:"POST / HTTP/1.1" 200 2044
+INFO 2023-02-22 10:13:49,454 autoreload 19596 29408 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:13:49,454:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:13:50,155 autoreload 27312 29112 Watching for file changes with StatReloader
+INFO 2023-02-22 10:13:52,613 autoreload 27312 29112 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:13:52,613:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:13:53,388 autoreload 29844 15136 Watching for file changes with StatReloader
+INFO 2023-02-22 10:13:59,999 autoreload 29844 15136 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:13:59,999:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:14:00,709 autoreload 10208 27248 Watching for file changes with StatReloader
+INFO 2023-02-22 10:16:37,738 autoreload 10208 27248 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:16:37,738:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:16:38,594 autoreload 30520 26784 Watching for file changes with StatReloader
+INFO 2023-02-22 10:16:45,424 autoreload 30520 26784 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:16:45,424:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:16:46,263 autoreload 1836 11488 Watching for file changes with StatReloader
+INFO 2023-02-22 10:16:48,673 autoreload 1836 11488 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:16:49,353 autoreload 25356 8396 Watching for file changes with StatReloader
+INFO 2023-02-22 10:17:08,568 autoreload 25356 8396 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:17:09,343 autoreload 16372 14644 Watching for file changes with StatReloader
+INFO 2023-02-22 10:17:12,821 autoreload 16372 14644 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:17:13,541 autoreload 19928 20212 Watching for file changes with StatReloader
+INFO 2023-02-22 10:17:23,385 autoreload 19928 20212 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:17:23,385:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:17:24,103 autoreload 23536 20324 Watching for file changes with StatReloader
+INFO 2023-02-22 10:20:16,758 autoreload 23536 20324 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:20:16,758:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:20:17,538 autoreload 3400 28436 Watching for file changes with StatReloader
+INFO 2023-02-22 10:20:21,019 autoreload 3400 28436 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:20:21,728 autoreload 3912 22852 Watching for file changes with StatReloader
+INFO 2023-02-22 10:20:27,367 autoreload 3912 22852 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:20:27,367:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:20:28,157 autoreload 13400 29480 Watching for file changes with StatReloader
+INFO 2023-02-22 10:20:31,661 autoreload 13400 29480 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:20:31,661:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:20:32,423 autoreload 28328 15168 Watching for file changes with StatReloader
+INFO 2023-02-22 10:21:35,281 autoreload 28328 15168 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:21:35,281:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:21:36,038 autoreload 25516 9548 Watching for file changes with StatReloader
+INFO 2023-02-22 10:21:44,787 autoreload 25516 9548 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:21:44,787:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:21:45,465 autoreload 15800 2564 Watching for file changes with StatReloader
+INFO 2023-02-22 10:21:49,009 autoreload 15800 2564 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:21:49,009:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:21:49,773 autoreload 15156 22408 Watching for file changes with StatReloader
+INFO 2023-02-22 10:21:52,239 autoreload 15156 22408 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:21:52,239:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:21:52,883 autoreload 29944 18108 Watching for file changes with StatReloader
+INFO 2023-02-22 10:22:35,121 autoreload 29944 18108 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:22:35,121:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:22:35,862 autoreload 29908 27508 Watching for file changes with StatReloader
+INFO 2023-02-22 10:22:41,463 autoreload 29908 27508 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:22:41,463:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:22:42,217 autoreload 16248 16496 Watching for file changes with StatReloader
+INFO 2023-02-22 10:22:52,063 autoreload 16248 16496 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:22:52,063:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:22:52,777 autoreload 18920 18372 Watching for file changes with StatReloader
+2023-02-22 10:29:58,139:INFO:Creating a new object
+INFO 2023-02-22 10:30:05,615 basehttp 18920 21976 "POST / HTTP/1.1" 200 2044
+2023-02-22 10:30:05,615:INFO:"POST / HTTP/1.1" 200 2044
+INFO 2023-02-22 21:40:43,643 autoreload 18920 18372 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 21:40:43,643:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 21:40:45,264 autoreload 21184 22924 Watching for file changes with StatReloader
+INFO 2023-02-22 21:44:41,463 autoreload 21184 22924 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 21:44:41,463:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 21:44:42,222 autoreload 24040 10636 Watching for file changes with StatReloader
+INFO 2023-02-28 16:35:24,980 autoreload 8636 5492 Watching for file changes with StatReloader
+INFO 2023-02-28 16:35:35,912 basehttp 8636 9292 "GET / HTTP/1.1" 200 2044
+2023-02-28 16:35:35,912:INFO:"GET / HTTP/1.1" 200 2044
+WARNING 2023-02-28 16:35:36,563 log 8636 9292 Not Found: /favicon.ico
+2023-02-28 16:35:36,563:WARNING:Not Found: /favicon.ico
+WARNING 2023-02-28 16:35:36,568 basehttp 8636 9292 "GET /favicon.ico HTTP/1.1" 404 3032
+2023-02-28 16:35:36,568:WARNING:"GET /favicon.ico HTTP/1.1" 404 3032
+INFO 2023-02-28 16:36:03,050 autoreload 8212 5840 Watching for file changes with StatReloader
+INFO 2023-02-28 16:36:55,944 autoreload 2296 18196 Watching for file changes with StatReloader
+2023-02-28 16:36:57,912:INFO:Retrieved object
+INFO 2023-02-28 16:36:57,953 basehttp 2296 32736 "GET /employees_list HTTP/1.1" 200 2418
+2023-02-28 16:36:57,953:INFO:"GET /employees_list HTTP/1.1" 200 2418
+INFO 2023-02-28 16:37:06,346 basehttp 2296 26816 "GET /create_employee HTTP/1.1" 200 1521
+2023-02-28 16:37:06,346:INFO:"GET /create_employee HTTP/1.1" 200 1521
+2023-02-28 16:37:24,561:INFO:Updating object
+INFO 2023-02-28 16:37:24,569 basehttp 2296 23500 "GET /edit_employee/43222 HTTP/1.1" 200 1869
+2023-02-28 16:37:24,569:INFO:"GET /edit_employee/43222 HTTP/1.1" 200 1869
+INFO 2023-02-28 16:40:53,992 basehttp 2296 2844 "GET / HTTP/1.1" 200 2044
+2023-02-28 16:40:53,992:INFO:"GET / HTTP/1.1" 200 2044
+INFO 2023-03-01 11:11:53,906 autoreload 2296 18196 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-03-01 11:11:53,906:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-03-01 11:11:55,090 autoreload 15604 28228 Watching for file changes with StatReloader
+INFO 2023-03-01 11:12:05,733 autoreload 15604 28228 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-03-01 11:12:05,733:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-03-01 11:12:06,354 autoreload 11360 10436 Watching for file changes with StatReloader

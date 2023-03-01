@@ -1,0 +1,28 @@
+INFO 2023-02-22 10:03:56,096 autoreload 22052 6340 Watching for file changes with StatReloader
+INFO 2023-02-22 10:04:47,813 autoreload 22052 6340 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:04:47,813:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:04:48,627 autoreload 19888 20336 Watching for file changes with StatReloader
+INFO 2023-02-22 10:04:51,071 autoreload 19888 20336 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:04:51,071:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:04:51,917 autoreload 3256 25244 Watching for file changes with StatReloader
+INFO 2023-02-22 10:04:55,390 autoreload 3256 25244 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:04:55,390:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:04:56,207 autoreload 24248 15972 Watching for file changes with StatReloader
+INFO 2023-02-22 10:06:17,431 autoreload 24248 15972 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:06:17,431:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:06:18,142 autoreload 10764 22584 Watching for file changes with StatReloader
+INFO 2023-02-22 10:06:20,555 autoreload 10764 22584 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:06:20,555:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:06:21,156 autoreload 19124 15728 Watching for file changes with StatReloader
+INFO 2023-02-22 10:06:23,550 autoreload 19124 15728 C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+2023-02-22 10:06:23,550:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.
+INFO 2023-02-22 10:06:24,199 autoreload 30000 15848 Watching for file changes with StatReloader
+2023-02-22 10:06:24,228:INFO:ok
+INFO 2023-02-22 10:06:48,573 basehttp 30000 10044 "POST / HTTP/1.1" 200 2044
+2023-02-22 10:06:48,573:INFO:"POST / HTTP/1.1" 200 2044
+INFO 2023-02-22 10:06:50,284 basehttp 30000 16308 - Broken pipe from ('127.0.0.1', 55602)
+2023-02-22 10:06:50,284:INFO:- Broken pipe from ('127.0.0.1', 55602)
+INFO 2023-02-22 10:07:55,021 autoreload 30000 15848 C:\Users\ashok\Desktop\new\newproject\newproject\settings.py changed, reloading.
+2023-02-22 10:07:55,021:INFO:C:\Users\ashok\Desktop\new\newproject\newproject\settings.py changed, reloading.
+2023-02-22 10:07:55,933:INFO:ok
+2023-02-22 10:08:05,845:INFO:C:\Users\ashok\Desktop\new\newproject\employee\views.py changed, reloading.

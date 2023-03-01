@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Send Email Form</title>
+	<style>
+		form {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			font-family: Arial, sans-serif;
+		}
+		h3 {
+			margin-top: 0;
+		}
+		label {
+			margin-bottom: 5px;
+		}
+		input[type="text"], textarea {
+			padding: 10px;
+			border: none;
+			border-radius: 5px;
+			box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+			margin-bottom: 10px;
+			width: 300px;
+		}
+		input[type="file"] {
+			margin-bottom: 20px;
+		}
+		button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+			font-size: 16px;
+			cursor: pointer;
+		}
+		button:hover {
+			background-color: #3e8e41;
+		}
+	</style>
+</head>
+<body>
+	<form action="{% url 'send_email' %}" method="post" enctype="multipart/form-data"> 
+	    {% csrf_token %}
+	    <h3>SEND GMAIL</h3> 
+	    <label for="name">Name:</label> 
+	    <input type="text" placeholder="Enter your name" name="name" id="name"> 
+
+	    <label for="id">ID:</label>
+	    <input type="text" placeholder="Enter your ID" name="id" id="id"> 
+
+	    <label for="age">Age:</label> 
+	    <input type="text" placeholder="Enter your age" name="age" id="age"> 
+
+	    <label for="salary">Salary:</label> 
+	    <input type="text" placeholder="Enter your salary" name="salary" id="salary"> 
+
+	    <label for="email">Email:</label>
+	    <input type="text" placeholder="Enter your email" name="email" id="email">
+
+	    <label for="phone">Phone:</label> 
+	    <input type="text" placeholder="Enter your phone number" name="phone" id="phone"> 
+
+	    <label for="message">Message:</label> 
+	    <textarea id="message" name="message" rows="5" cols="50" placeholder="Enter your message here"></textarea> 
+
+	    <label for="attachment">Attachment:</label> 
+	    <input type="file" name="attachment" id="attachment">
+
+	    <button type="submit">SEND EMAIL</button>
+	</form>
+</body>
+</html>

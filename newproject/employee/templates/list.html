@@ -1,0 +1,24 @@
+<h2> Employee Details</h2>
+<a href="{% url 'create_employee' %}"><button type="button" class="btn btn-primary" onclick="myFunction()">Add New Employee</button></a>
+<table border="2" cellpadding="10">
+    <tr>
+      <td>Employee Name</td>
+      <td>Employee Salary</td>
+      <td>Employee Id</td>
+      <td>Employee Email_Id</td>
+      <td>Action</td>
+      <td>Action</td>
+    </tr>
+    {% for emp in employees %}
+    <tr>
+      <td>{{emp.name}}</td>
+      <td>{{emp.salary}}</td>
+      <td>{{emp.id}}</td>
+      <td>{{emp.email_id}}</td>
+      <td><a style="margin-right: 30px;" href="{% url 'edit_employee' emp.pk %}">Edit</a></td>
+      <td><a style="margin-right: 30px;" href="{% url 'destroy' emp.pk %}">Delete</a></td>
+    </tr>
+    {% endfor %}
+  </table>
+
+
