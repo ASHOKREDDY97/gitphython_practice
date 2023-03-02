@@ -43,7 +43,7 @@ def edit_employee(request,pk):
         form=EmployeeForm(request.POST,instance=employee)
         if form.is_valid():
             form.save()
-            logger.info('Object updated successfully')
+            logger.info('Object updated successfully.')
         return redirect('employees_list')
     return render(request,'edit.html',{'employee':employee,'form':form})
 
