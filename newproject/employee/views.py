@@ -83,7 +83,7 @@ def send_email(request):
     except KeyError as ke:
         msg = f"Key: {ke} missing in the request!"
         logger.error(msg)
-        response = HttpResponse("Your request was processed.")
+        response = HttpResponse("Your request was processed")
         response.set_cookie('my_cookie', 'cookie_value')
         return render(request, 'success.html')
     return render(request, 'sendmail.html')
